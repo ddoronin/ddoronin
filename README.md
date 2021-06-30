@@ -1,1 +1,1 @@
-![](http://gph.is/11DYjH3)
+![](https://i.giphy.com/media/yl3XErRq8qmmA/giphy.webp)
