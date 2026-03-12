@@ -115,5 +115,7 @@ Full-stack engineer with 15 years of experience building API platforms, develope
 ## Education
 
 **Ph.D. (ABD)** – Radiophysics and Electronics, Saratov State University, 2010–2013
+
 **Master's Degree** – Radiophysics and Electronics, 2005–2010
+
 Author of 14 publications in electrodynamics, mathematics, and computer science — [ResearchGate](https://www.researchgate.net/scientific-contributions/2013742207_D_M_Doronin) · [eLibrary](https://elibrary.ru/item.asp?id=15117920)
