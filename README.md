@@ -99,14 +99,21 @@ Full-stack engineer with 15 years of experience building API platforms, develope
 
 - Designed a no-code AI agent platform with a GraphQL control plane, extensible tool execution model, and multi-tenant infrastructure enabling secure, composable agent workflows.
 
-## Selected Publications & Open Source
+
+## Publications & Open Source
 
 - [Building AI Agents on GraphQL: A Comparative Study of Two Architectural Approaches](https://medium.com/itnext/building-ai-agents-on-graphql-a-comparative-study-of-two-architectural-approaches-f58884c10a49) — Medium
 - [Dependency Injection in React](https://medium.com/itnext/dependency-injection-in-react-6fcdbd2005e6) — Medium
-- [Reactive Hooks](https://www.npmjs.com/package/reactive-hooks) — Open-source RxJS-inspired state management library for React (NPM)
+- [Reactive Hooks](https://www.npmjs.com/package/@reonomy/reactive-hooks) — Open-source RxJS-inspired state management library for React (NPM)
+
+**Academic Publications (IEEE):**
+
+1. A.N. Savin, I.A. Nakrap, D.M. Doronin — _The equivalent circuit parameters calculation of a coupled cavity chain using electrodynamic characteristics_ — IEEE, 2010. [Link](https://ieeexplore.ieee.org/document/5632593)
+2. A.N. Savin, I.A. Nakrap, D.M. Doronin — _The high-order optimal design of experiment development on the base of regular simplex for the slow-wave structures characteristics modeling_ — IEEE, 2010. [Link](https://ieeexplore.ieee.org/document/5632591)
+3. M.V. Davidovich, A.N. Savin, D.M. Doronin — _Electromagnetic properties of metallic photonic crystals_ — IEEE, 2010. [Link](https://ieeexplore.ieee.org/document/5632577)
 
 ## Education
 
 **Ph.D. (ABD)** – Radiophysics and Electronics, Saratov State University, 2010–2013
 **Master's Degree** – Radiophysics and Electronics, 2005–2010
-Author of 14 publications in electrodynamics, mathematics, and computer science ([ResearchGate](https://www.researchgate.net/scientific-contributions/2013742207_D_M_Doronin))
+Author of 14 publications in electrodynamics, mathematics, and computer science — [ResearchGate](https://www.researchgate.net/scientific-contributions/2013742207_D_M_Doronin) · [eLibrary](https://elibrary.ru/item.asp?id=15117920)
