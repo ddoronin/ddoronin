@@ -8,9 +8,14 @@ Full-stack engineer with 15 years of experience building API platforms, develope
 
 ## Experience
 
+### Senior FDE | Cloudflare — New York, NY
+
+**July 2026 – Today**
+
+
 ### Senior Software Engineer | Postman — New York, NY
 
-**Mar 2024 – Present**
+**Mar 2024 – May 2026**
 `React`, `TypeScript`, `Node.js`, `MySQL`, `Kubernetes`, `AWS`, `SQS`, `Kafka`, `Redis`
 
 - Led **Project Atlas**, an agentic data pipeline that autonomously discovers and onboards API publishers at scale — capable of processing up to 500 companies per day — accelerating Postman's AI-first network growth strategy. The crawling algorithm proved generalizable enough to share via API with the API Products initiative.
